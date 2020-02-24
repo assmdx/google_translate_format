@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Google Translate Format
-// @namespace    https://translate.google.cn/*
+// @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  source author:XMAN , changed by assmdx
-// @author       You
-// @include      https://*translate.google.*/*
-// @match        http://*/*
+// @description  try to take over the world!
+// @author       assmdx
+// @match        https://translate.google.*
 // @grant        none
 // ==/UserScript==
 
@@ -29,4 +28,3 @@
         }
     },1000);
 })();
-
