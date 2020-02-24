@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Google translation replace character
+// @name         Google Translate Format
 // @namespace    https://translate.google.cn/*
 // @version      0.1
-// @description  press F5
-// @author       XMAN,assmdx
+// @description  source author:XMAN , changed by assmdx
+// @author       assmdx
 // @include      https://*translate.google.*/*
 // @match        http://*/*
 // @grant        none
