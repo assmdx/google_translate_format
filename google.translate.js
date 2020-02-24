@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Google Translate Format
-// @namespace    http://tampermonkey.net/
+// @name         google_translate_format
+// @namespace    google_translate_format
 // @version      0.1
 // @description  try to take over the world!
 // @author       assmdx
