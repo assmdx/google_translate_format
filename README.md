@@ -5,9 +5,9 @@
 
 ## 如何使用
 
-1. 点击[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)安装chrome插件.
+1. 点击[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)安装chrome插件.
 
-2. 在油猴中新建脚本，把[google.translate.js](https://github.com/assmdx/google_translate_format/raw/master/google.translate.js)内容复制进去，安装即可.
+2. 在Tampermonkey中新建脚本，把[google.translate.js](https://github.com/assmdx/google_translate_format/raw/master/google.translate.js)内容复制进去，安装即可.
 
 
 
