@@ -3,7 +3,7 @@
 // @namespace    https://translate.google.cn/*
 // @version      0.1
 // @description  press F5
-// @author       XMAN
+// @author       XMAN,assmdx
 // @include      https://*translate.google.*/*
 // @match        http://*/*
 // @grant        none
