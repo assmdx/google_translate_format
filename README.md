@@ -1,2 +1,10 @@
 # google_translate_format
-https://translate.google.com 翻译插件
+谷歌翻译自动格式化脚本，配合chrome tampermonkey插件使用
+
+
+
+## 如何使用
+
+1. 点击[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)安装chrome插件.
+2. 点击[google.translate.assmdx.js](https://github.com/assmdx/CSDN_clean/raw/master/google.translate.assmdx.js)，安装即可.
+
