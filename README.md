@@ -6,5 +6,11 @@
 ## 如何使用
 
 1. 点击[tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)安装chrome插件.
-2. 点击[google.translate.assmdx.js](https://github.com/assmdx/CSDN_clean/raw/master/google.translate.assmdx.js)，安装即可.
+2. 点击[google.translate.assmdx.js](https://github.com/assmdx/google_translate_format/raw/master/google.translate.assmdx.js)，安装即可.
+
+
+
+## 反馈
+
+[点这里给我提问题吧O(∩_∩)O哈哈~](https://github.com/assmdx/google_translate_format/issues)
 
