@@ -3,7 +3,7 @@
 // @namespace    https://translate.google.cn/*
 // @version      0.1
 // @description  source author:XMAN , changed by assmdx
-// @author       assmdx
+// @author       You
 // @include      https://*translate.google.*/*
 // @match        http://*/*
 // @grant        none
